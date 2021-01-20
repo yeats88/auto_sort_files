@@ -1,0 +1,14 @@
+{
+	"File_Type":{
+		"Album":["jpg","JPG","png","PNG","gif","jpeg","JPEG","tiff"],
+		"Camera-RAW":["nef","NEF"],
+		"Document":["pdf","doc","docx","xls","xlsx","ppt","pptx","epub","mobi","txt"],
+		"Movie":["rmvb","avi","mp4","mkv"],
+		"Program":["exe","msi"],
+		"APK":["apk","deb"],
+		"ZIP":["zip","7z","tar","rar"],
+		"Torrent":["torrent"]
+	},
+	"Forbidden_Files":["ini","dll","conf","cnf","out"],
+	"Forbidden_Dirs":["Program Files","Windows","System32","Do_Not_Touch_it"]
+}
