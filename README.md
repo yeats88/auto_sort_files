@@ -132,3 +132,4 @@ main.py中导入sort_out.py模块，然后根据config.json的设置确定文件
 ~~+ 利用Size区别大小文件，但是感觉作用不是太大啊～～
 
 + 注释和提示英文化，然后增加本地化支持
+"# auto_sort_files" 
